@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WM2NZEuxoFFu4wX8FlSLjGQArZ/V1F2vBpkdSyBVcWI=",
+  "Source": "DevFreela.Payments.API",
+  "BasePath": "_content/DevFreela.Payments.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
